@@ -1,8 +1,6 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/sgmdlt/python-project-lvl3/workflows/hexlet-check/badge.svg)](https://github.com/sgmdlt/python-project-lvl3/actions)
-[![Python CI](https://github.com/sgmdlt/python-project-lvl3/actions/workflows/python-ci.yml/badge.svg)](https://github.com/sgmdlt/python-project-lvl3/actions/workflows/python-ci.yml)
-[![Maintainability](https://api.codeclimate.com/v1/badges/d9a8d018be5322f613df/maintainability)](https://codeclimate.com/github/sgmdlt/python-project-lvl3/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/d9a8d018be5322f613df/test_coverage)](https://codeclimate.com/github/sgmdlt/python-project-lvl3/test_coverage)
+[![Python CI](https://github.com/sgmdlt/python-project-3/actions/workflows/python-ci.yml/badge.svg)](https://github.com/sgmdlt/python-project-3/actions/workflows/python-ci.yml)
 
 # page-loader
 ### **page-loader** is a simple cli-utility to download web pages
