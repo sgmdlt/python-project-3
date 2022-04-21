@@ -1,5 +1,4 @@
 ### Hexlet tests and linter status:
-[![Actions Status](https://github.com/sgmdlt/python-project-lvl3/workflows/hexlet-check/badge.svg)](https://github.com/sgmdlt/python-project-lvl3/actions)
 [![Python CI](https://github.com/sgmdlt/python-project-3/actions/workflows/python-ci.yml/badge.svg)](https://github.com/sgmdlt/python-project-3/actions/workflows/python-ci.yml)
 
 # page-loader
