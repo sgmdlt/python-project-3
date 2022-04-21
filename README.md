@@ -9,7 +9,7 @@
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install **page-loader**.
 
 ```bash
-pip install --user git+https://github.com/sgmdlt/python-project-lvl3.git
+pip install --user git+https://github.com/sgmdlt/python-project-3.git
 ```
 
 ## Usage
