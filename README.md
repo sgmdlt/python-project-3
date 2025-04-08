@@ -1,5 +1,6 @@
 ### Hexlet tests and linter status:
 [![Python CI](https://github.com/sgmdlt/python-project-3/actions/workflows/python-ci.yml/badge.svg)](https://github.com/sgmdlt/python-project-3/actions/workflows/python-ci.yml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=sgmdlt_python-project-3&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=sgmdlt_python-project-3)
 
 # page-loader
 ### **page-loader** is a simple cli-utility to download web pages
